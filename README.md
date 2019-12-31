@@ -3,19 +3,9 @@ This Repository is created during my OSWE preparation, here I share the resource
 
 Resouerces:
 
-
-https://www.pentest.com.tr/blog/OSWE-Advanced-Web-Attacks-and-Exploitation-EN.html
-
-
 https://vulncat.fortify.com/en/weakness
 
-
 https://www.exploit-db.com/?author=278
-
-
-https://hansesecure.de/2019/08/from-awae-to-oswe-the-preperation-guide/?lang=en
-
-
 
 https://github.com/WebGoat/WebGoat
 
@@ -34,7 +24,5 @@ https://youtu.be/CmF9sEyKZNo
 https://link.medium.com/hakVzXrxB2
 
 https://nytrosecurity.com/2018/05/30/understanding-java-deserialization/
-
-https://www.pentest.com.tr/blog/OSWE-Advanced-Web-Attacks-and-Exploitation-EN.html
 
 https://hansesecure.de/2019/08/from-awae-to-oswe-the-preperation-guide/?lang=en
