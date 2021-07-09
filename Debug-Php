@@ -1,0 +1,17 @@
+1.  Install and configure xdebug with php
+2.  in /etc/php/7.4/apache2/php.ini add followimg lines below OPCache
+ zend_extension = "<Location of xdebug.so file>"
+xdebug.mode = debug
+xdebug.start_with_request = yes
+xdebug.client_port = 9000
+xdebug.client_host = "127.0.0.1"
+xdebug.log = "C:\xampp\tmp\xdebug\xdebug.log"
+xdebug.idekey = VSCODE
+
+after that install browser extension from below link 
+
+https://xdebug.org/docs/step_debug
+
+Refercences:
+
+https://stackoverflow.com/questions/65137732/xdebug-v3-doesnt-stop-breakpoints-in-vscode
